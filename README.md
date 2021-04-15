@@ -1,6 +1,6 @@
 ## Dockerfile development configuration
 
-For CakePHP version 4.x using running on PHP version 8.x. Ubuntu 20.04 as base image
+For CakePHP version 4.x running on PHP version 8.x. With Ubuntu 20.04 as base image
 
 Stack
 
